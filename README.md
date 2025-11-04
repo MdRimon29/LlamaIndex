@@ -12,4 +12,7 @@ pip install llama-index
 ```
 ## Download requirements for this repository -
 In your terminal window run this-
-```bash pip install -r requirements.txt```
+```bash 
+pip install -r requirements.txt
+```
+
